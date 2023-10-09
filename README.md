@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisaperez19&label=Profile%20views&color=0e75b6&style=flat" alt="luisaperez19" /> </p>
 
--<p align="center">
+<p align="center">
 📧 Email: <a href="mailto:luisa.perezw3@gmail.com">luisa.perezw3@gmail.com</a> | 🌐 Portfolio: <a href="https://luisaperez.net/">luisaperez.net</a>
 
 </p>
