@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisaperez19&label=Profile%20views&color=0e75b6&style=flat" alt="luisaperez19" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://luisaperez.net/](https://luisaperez.net/)
+-<p align="center">
+📧 Email: <a href="mailto:luisa.perezw3@gmail.com">luisa.perezw3@gmail.com</a> | 🌐 Portfolio: <a href="https://luisaperez.net/">luisaperez.net</a>
 
-- 📫 How to reach me **luisa.perezw3@gmail.com**
+</p>
 
 - 📄 Know about my experiences [https://app.enhancv.com/share/b52fc56b/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/b52fc56b/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
