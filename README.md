@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luisa Perez</h1>
 <h3 align="center">A passionate full-stack developer from Colombia, Le Wagon London Graduate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisaperez19&label=Profile%20views&color=0e75b6&style=flat" alt="luisaperez19" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=luisaperez19&label=Profile%20views&color=0e75b6&style=flat" alt="luisaperez19" /> </p>
 
 <p align="center">
 📧 Email: <a href="mailto:luisa.perezw3@gmail.com">luisa.perezw3@gmail.com</a> | 🌐 Portfolio: <a href="https://luisaperez.net/">luisaperez.net</a>
