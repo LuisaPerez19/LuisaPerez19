@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisaperez19&label=Profile%20views&color=0e75b6&style=flat" alt="luisaperez19" /> </p>
 
-- 👨‍💻 All of my projects are available at [luisaperez.net](luisaperez.net)
+- 👨‍💻 All of my projects are available at [https://luisaperez.net/](https://luisaperez.net/)
 
 - 📫 How to reach me **luisa.perezw3@gmail.com**
 
