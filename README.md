@@ -3,6 +3,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luisaperez19&label=Profile%20views&color=0e75b6&style=flat" alt="luisaperez19" /> </p>
 
+<hr>
+<p>📆 Available for Full-stack work</p>
+<p>🧠 Full-stack trained</p>
+<p>🌱 Currently deepening my JavaScript knowledge and learning React with [Scrimba](https://scrimba.com/learn/learnreact)</p>
+<p>📆 Project Coordinator experience</p>
+<p>💞 I’m looking to collaborate on projects related to web development, building, and creating tools and applications</p>
+<hr>
+
 <p align="center">
 📧 Email: <a href="mailto:luisa.perezw3@gmail.com">luisa.perezw3@gmail.com</a> | 🌐 Portfolio: <a href="https://luisaperez.net/">luisaperez.net</a>
 
