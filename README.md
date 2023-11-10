@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luisaperez19&label=Profile%20views&color=0e75b6&style=flat" alt="luisaperez19" /> </p>
 
 <p align="center">📆 Available for Full-stack work</p>
-<p align="center">🌱 Currently deepening my JavaScript knowledge and learning React with (https://scrimba.com/learn/learnreact)</p>
+<p align="center">🌱 Currently deepening my JavaScript knowledge and learning React with (https://www.udemy.com/course/react-the-complete-guide-incl-redux/)</p>
 <p align="center"> ⚙️ Project Coordinator experience</p>
 <p align="center">💞 I’m looking to collaborate on projects related to web development, building, and creating tools and applications</p>
 <hr>
