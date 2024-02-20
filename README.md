@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luisa Perez</h1>
 <h3 align="center">A passionate full-stack developer from Colombia, Le Wagon London Graduate</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=luisaperez19&label=Profile%20views&color=0e75b6&style=flat" alt="luisaperez19" /> </p>
-
 <p align="center">📆 Available for Full-stack work</p>
 <p align="center">🌱 Currently deepening my JavaScript knowledge and learning  with supersimpleDev tutorials (https://www.youtube.com/watch?v=2exKokkn8o0&t=61s)</p>
 <p align="center"> ⚙️ Project Coordinator experience</p>
