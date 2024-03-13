@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luisa Perez</h1>
-<h3 align="center">A passionate full-stack developer from Colombia, Le Wagon London Graduate</h3>
+<h3 align="center">A passionate Junior full-stack developer from Colombia, Le Wagon London Graduate</h3>
 
 <p align="center">📆 Available for Full-stack work</p>
 <p align="center">🌱 Currently deepening my JavaScript knowledge and learning  with supersimpleDev tutorials (https://www.youtube.com/watch?v=2exKokkn8o0&t=61s)</p>
