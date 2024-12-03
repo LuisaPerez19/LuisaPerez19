@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luisa Perez</h1>
-<h3 align="center">A passionate Junior Product Support Specialist from Colombia, Le Wagon London Graduate</h3>
+<h3 align="center">A passionate Product Support Specialist from Colombia, Le Wagon London Graduate</h3>
 
 <!-- <p align="center">📆 Available for Full-stack work</p> -->
-<p align="center">🌱 Currently deepening my JavaScript knowledge and learning  with supersimpleDev tutorials (https://www.youtube.com/watch?v=2exKokkn8o0&t=61s)</p>
-<p align="center"> ⚙️ Project Coordinator and Product support experience</p>
+<p align="center">🌱 Currently deepening my knowledge and learning  with the Odin Project (https://www.theodinproject.com/paths)</p>
+<p align="center"> ⚙️ Product Support and Project coordinator experience</p>
 <p align="center">💞 I’m looking to collaborate on projects related to web development, building, and creating tools and applications</p>
 <hr>
 
@@ -17,10 +17,6 @@
 <p align="center">
 📧 Email: <a href="mailto:luisa.perezw3@gmail.com">luisa.perezw3@gmail.com</a> | 🌐 Portfolio: <a href="https://luisaperez.net/">luisaperez.net</a>
 
-</p>
-
-<p align="center">
-  - 📄 Know about my experiences [https://app.enhancv.com/share/8970e915/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic]
 </p>
 
 <p align="center">
